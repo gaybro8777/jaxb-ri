@@ -86,7 +86,7 @@
         <spotbugs.threshold>High</spotbugs.threshold>
         <spotbugs.version>3.1.12.2</spotbugs.version>
 
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
 
         <module.path>${project.build.directory}/mods</module.path>
         <!-- This will work ONLY if mvn is run from root folder. In case of runing from submodules - fail :( -->
